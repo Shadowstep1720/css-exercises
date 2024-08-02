@@ -50,6 +50,7 @@ a {
 .left-links {
   display: flex;
   gap: 16px;
+  /*comment*/
 }
 
 .right-links {
